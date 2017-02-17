@@ -6,7 +6,7 @@
 #
 #   Purpose: Uses the current time to find the time in NYC and London, and does
 #   a comparison to see if the current time is within a store's operating hours.
-#   The result of whether a store is Open or Closes is displayed in the shell.
+#   The result of whether a store is Open or Closed is displayed in the shell.
 
 import datetime as dt
 from datetime import datetime,timedelta
